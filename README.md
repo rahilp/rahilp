@@ -1,5 +1,7 @@
 # Rahil Pirani
 
+![@rahilp's GitHub Stats](https://devquest-mu.vercel.app/card/rahilp.svg?ascii=3&stats=repos%2Cfollowers%2Cstars%2Ccontributions%2Cprs)
+
 **Builder. Open-source. AI tools. Atlanta.**
 
 I’m an entrepreneur and developer obsessed with building tools that make AI actually useful in day-to-day work. I care about self-hosted infrastructure, edge computing, and keeping things simple enough that real people use them.

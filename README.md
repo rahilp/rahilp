@@ -41,13 +41,6 @@ I’m an entrepreneur and developer obsessed with building tools that make AI ac
 
 -----
 
-### 📈 GitHub Stats
-
-![Rahil’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahilp&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahilp&layout=compact&theme=dark&hide_border=true)
-
------
 
 ### ✍️ Recent writing
 
